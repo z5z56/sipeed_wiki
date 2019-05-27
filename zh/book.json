@@ -27,6 +27,10 @@
             {
                 "name": "Maixduino",
                 "link": "https://maixduino.sipeed.com/"
+            },
+            {
+                "name": "github",
+                "link": "https://github.com/sipeed"
             }
         ]
     }
