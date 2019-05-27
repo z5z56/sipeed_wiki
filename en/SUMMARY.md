@@ -6,6 +6,7 @@ Summary
 ## K210 Series
 
 - [About K210](k210/README.md)
+- [What can K210 do?](k210/demo_video.md)
 
 - [Module](k210/module/README.md)
   - [Maix M1](k210/module/m1.md)

@@ -6,6 +6,7 @@ Summary
 ## K210 系列
 
 - [关于 K210](k210/README.md)
+- [K210 可以做什么？(demo视频)](k210/demo_video.md)
 
 - [模组](k210/module/README.md)
   - [Maix M1](k210/module/m1.md)
