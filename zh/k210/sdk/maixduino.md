@@ -1,6 +1,8 @@
 Maixduino
 ==========
 
+![](../../../assets/arduino.png)
+
 
 兼容 [Arduino](https://www.arduino.cc/)， 可使用 `Arduino` IDE 或者 [Platform IO IDE](https://platformio.org/)
 

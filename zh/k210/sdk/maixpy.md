@@ -1,6 +1,8 @@
 使用脚本开发： Maixpy
 ========
 
+![](../../../assets/micropython.png)
+
 MaixPy 基于 [Micropython](http://micropython.org) 进行开发， 使用 MaixPy：
 
 * 脚本开发方式，不用编译链接过程

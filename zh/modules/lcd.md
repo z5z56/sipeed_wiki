@@ -16,7 +16,12 @@ LCD 模块
 
 ## 荔枝派显示模块
 
-详情查看[淘宝](https://item.taobao.com/item.htm?id=585048350908#)
+![](../../assets/lcd_0.jpg)
+![](../../assets/lcd_1.jpg)
+
+详情查看[淘宝](https://item.taobao.com/item.htm?id=585048350908#), 以及[这里](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-21231188711.12.549d4220iNIEmi&id=584657396198)
+
+
 
 
 * [LCD 硬件资料](http://dl.sipeed.com/Accessories/LCD/)
