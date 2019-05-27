@@ -23,6 +23,6 @@
 ## 资料
 
 * 硬件资料： [dl.sipeed.com](http://dl.sipeed.com/MAIX/HDK/Maixduino/)
-* [SDK](http://localhost:4000/zh/k210/sdk/)： 适用于 k210 系列所有 SDK 
+* [SDK](zh/k210/sdk/)： 适用于 k210 系列所有 SDK
 
 

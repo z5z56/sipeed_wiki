@@ -29,5 +29,5 @@ Sipeed Maix Go 外壳 组装视频:
 ## 资料
 
 * 硬件资料： [dl.sipeed.com](http://dl.sipeed.com/MAIX/HDK/Maix-GO/)
-* [SDK](http://localhost:4000/zh/k210/sdk/)： 适用于 k210 系列所有 SDK (左边目录栏查看)
+* [SDK](zh/k210/sdk/)： 适用于 k210 系列所有 SDK
 
