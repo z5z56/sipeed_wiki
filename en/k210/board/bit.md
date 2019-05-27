@@ -16,5 +16,5 @@ Development Board Maix Bit
 
 * Hardware Information: [dl.sipeed.com](http://dl.sipeed.com/MAIX/HDK/Maix-Bit/)
 
-* [SDK](zh/k210/sdk/): Applies to all SDKs of the k210 series
+* [SDK](../sdk/README.md): Applies to all SDKs of the k210 series
 

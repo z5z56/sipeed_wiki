@@ -28,7 +28,7 @@ Sipeed Maix Go Shell Assembly Video:
 ## Docs & Downloads
 
 * Hardware Information: [dl.sipeed.com](http://dl.sipeed.com/MAIX/HDK/Maix-GO/)
-* [SDK](zh/k210/sdk/): Applies to all SDKs of the k210 series
+* [SDK](../sdk/README.md): Applies to all SDKs of the k210 series
 
 
 

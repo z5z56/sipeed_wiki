@@ -16,4 +16,4 @@
 
 * 硬件资料： [dl.sipeed.com](http://dl.sipeed.com/MAIX/HDK/Maix-Bit/)
 
-* [SDK](zh/k210/sdk/)： 适用于 k210 系列所有 SDK
+* [SDK](../sdk/README.md)： 适用于 k210 系列所有 SDK

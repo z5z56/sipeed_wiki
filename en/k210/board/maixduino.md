@@ -23,6 +23,6 @@ Development board Maixduino
 ## Docs & Downloads
 
 * Hardware Information: [dl.sipeed.com](http://dl.sipeed.com/MAIX/HDK/Maixduino/)
-* [SDK](zh/k210/sdk/): Applies to all SDKs of the k210 series
+* [SDK](../sdk/README.md): Applies to all SDKs of the k210 series
 
 
