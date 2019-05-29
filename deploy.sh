@@ -7,6 +7,7 @@ BRANCH=$(if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then echo $TRAVIS_BRANCH; els
 echo "TRAVIS_BRANCH=$TRAVIS_BRANCH, BRANCH=$BRANCH"
 curr_branch=$TRAVIS_BRANCH
 
+python custom.py
 cp -f index.html build/index.html
 cp -f assets/favicon.ico build/gitbook/images/favicon.ico
 cp -f assets/icon_sipeed.png build/gitbook/images/apple-touch-icon-precomposed-152.png
