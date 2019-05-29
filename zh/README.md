@@ -2,6 +2,9 @@ Sipeed Wiki
 ======
 
 
+Wiki 页面主要详细地介绍了 Sipeed 的各类产品的参数， 以及资料、文档 索引
+
+
 ## 产品
 
 * [k210系列](k210/README.md): AIOT 边缘计算（视觉、听觉 以及普通单片机功能）
@@ -18,4 +21,9 @@ Wiki 中提到的物品均可以在官方淘宝店购买到，如果没有请询
 * [Sipeed 淘宝](https://shop365481095.taobao.com/)
 
 * [Seeed 商城](https://www.seeedstudio.com/catalogsearch/result/?cat=&q=sipeed)
+
+## 开源代码
+
+* [sipeed](https://github.com/sipeed)
+* [lichee](https://github.com/Lichee-Pi)
 

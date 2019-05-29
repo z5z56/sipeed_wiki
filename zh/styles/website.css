@@ -179,3 +179,15 @@
 .gitbook-link {
   display: none !important;
 }
+
+.book-summary ul.summary li.header{
+  color: white;
+  background-color: #289bff;
+}
+
+.header_logo_font{
+  font-size: 35px;
+  color: #d42b17;
+  margin-left: 10px;
+}
+

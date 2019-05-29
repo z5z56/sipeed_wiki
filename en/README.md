@@ -1,6 +1,7 @@
 Sipeed Wiki
 ======
 
+The Wiki page provides a detailed introduction to the parameters of Sipeed's various products, as well as the index of data and documents.
 
 ## Products
 
@@ -18,4 +19,10 @@ Items mentioned in the wiki can be purchased at the official Taobao store. If no
 * [Sipeed Taobao](https://shop365481095.taobao.com/)
 
 * [Seeed Mall](https://www.seeedstudio.com/catalogsearch/result/?cat=&q=sipeed)
+
+
+## Source Code
+
+* [sipeed](https://github.com/sipeed)
+* [lichee](https://github.com/Lichee-Pi)
 

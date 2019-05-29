@@ -1,7 +1,7 @@
 Summary
 =====
 
-- [Wiki](README.md)
+- [Sipeed Products](README.md)
 
 ## K210 Series
 
