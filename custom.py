@@ -10,7 +10,7 @@ def change_page_inner_width(file, width):
         return
     f = open(file)
     content = f.read()
-    content = content.replace('<div class="page-inner">', '<div class="page-inner" style="max-width:%dpx;">' %(width))
+    content = content.replace('<div class="page-inner">', '<div class="page-inner" style="max-width:100%; margin-left:50px;">')
     f.close()
     f = open(file, "w")
     f.write(content)
