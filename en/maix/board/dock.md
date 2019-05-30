@@ -1,4 +1,4 @@
-Development Board Maix Dan(M1) Dock
+Development Board Maix Dan Dock
 ===========
 
 

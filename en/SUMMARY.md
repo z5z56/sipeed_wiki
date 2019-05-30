@@ -17,15 +17,15 @@ Summary
   - [Kendryte SDK](maix/sdk/kendryte_sdk.md)
   - [RT-Thread](maix/sdk/rtt.md)
 
-## Lichee Series
+## Lichee Pi Series
 
-- [Lichee Pi](lichee/README.md)
-  - [Lichee Pi Nano](lichee/nano.md)
-  - [Lichee Pi Zero](lichee/zero.md)
+- [Lichee Pi Nano](lichee/nano.md)
+- [Lichee Pi Zero](lichee/zero.md)
 
-- [Lichee Tang](tang/README.md)
-  - [Lichee Tang Premier](tang/premier.md)
-  - [Lichee Tang Hex](tang/hex.md)
+## Lichee Tang Series
+
+- [Lichee Tang Premier](tang/premier.md)
+- [Lichee Tang Hex](tang/hex.md)
 
 
 ## Peripheral modules

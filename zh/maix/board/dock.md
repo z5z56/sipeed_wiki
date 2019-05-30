@@ -1,4 +1,4 @@
-开发板 Maix Dan（M1） Dock
+开发板 Maix Dan Dock
 ===========
 
 

@@ -17,15 +17,15 @@ Summary
   - [Kendryte SDK](maix/sdk/kendryte_sdk.md)
   - [RT-Thread](maix/sdk/rtt.md)
 
-## 荔枝系列
+## 荔枝派系列
 
-- [荔枝派](lichee/README.md)
-  - [荔枝派 Nano](lichee/nano.md)
-  - [荔枝派 Zero](lichee/zero.md)
+- [荔枝派 Nano](lichee/nano.md)
+- [荔枝派 Zero](lichee/zero.md)
 
-- [荔枝糖](tang/README.md)
-  - [荔枝糖 Premier](tang/premier.md)
-  - [荔枝糖 Hex](tang/hex.md)
+## FPGA 荔枝糖系列
+
+- [荔枝糖 Premier](tang/premier.md)
+- [荔枝糖 Hex](tang/hex.md)
 
 
 ## 配件/模块

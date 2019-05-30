@@ -7,6 +7,10 @@
     },
     "variables": {
         "items": [
+            {
+                "name": "Taobao",
+                "link": "https://shop365481095.taobao.com/"
+            }
         ]
     }
 }
