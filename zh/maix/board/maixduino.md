@@ -5,7 +5,7 @@
 ![](../../../assets/maixduino_1.png)
 ![](../../../assets/maixduino_3.jpg)
 
-![](https://cdn.sipeed.com/wiki/maixduino/maixduino_pins.svg)
+![](https://cdn.sipeed.com/wiki/maixduino/maixduino_pins_1920_914.png)
 
 [引脚图 PNG 下载](https://cdn.sipeed.com/wiki/maixduino/maixduino_pins.png)
 
