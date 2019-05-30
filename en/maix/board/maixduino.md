@@ -5,6 +5,10 @@ Development board Maixduino
 ![](../../../assets/maixduino_1.png)
 ![](../../../assets/maixduino_3.jpg)
 
+![](https://cdn.sipeed.com/wiki/maixduino/maixduino_pins.svg)
+
+[Pin map PNG picture Download](https://cdn.sipeed.com/wiki/maixduino/maixduino_pins.png)
+
 * Maix M1 module
 * ESP32-WROOM-32 WiFi module (2.4G WiFi + Bluetooth)
 * 4 indicators (esp32 and k210 serial port send and receive indicators)

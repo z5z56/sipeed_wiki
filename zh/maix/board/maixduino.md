@@ -5,6 +5,11 @@
 ![](../../../assets/maixduino_1.png)
 ![](../../../assets/maixduino_3.jpg)
 
+![](https://cdn.sipeed.com/wiki/maixduino/maixduino_pins.svg)
+
+[引脚图 PNG 下载](https://cdn.sipeed.com/wiki/maixduino/maixduino_pins.png)
+
+
 * Maix M1 模组
 * ESP32-WROOM-32 WiFi 模组（2.4G WiFi+蓝牙）
 * 4 个指示灯（esp32 和 k210 串口发送接收指示灯）
