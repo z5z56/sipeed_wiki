@@ -3,25 +3,19 @@ Summary
 
 - [Sipeed 产品简介](README.md)
 
-## K210 系列
+## AI Maix 系列
 
-- [关于 K210](k210/README.md)
-- [K210 可以做什么？(demo视频)](k210/demo_video.md)
-
-- [模组](k210/module/README.md)
-  - [Maix M1](k210/module/m1.md)
-
-- [开发板](k210/board/README.md)
-  - [Maix Bit](k210/board/bit.md)
-  - [Maix Dock](k210/board/dock.md)
-  - [Maix Go](k210/board/go.md)
-  - [Maixduino](k210/board/maixduino.md)
-
-- [软件开发套件（SDK）](k210/sdk/README.md)
-  - [MaixPy](k210/sdk/maixpy.md)
-  - [Maixduino](k210/sdk/maixduino.md)
-  - [Kendryte SDK](k210/sdk/kendryte_sdk.md)
-  - [RT-Thread](k210/sdk/rtt.md)
+- [模组 Maix M1](maix/module/m1.md)
+- [开发板](maix/board/README.md)
+  - [Maix Bit](maix/board/bit.md)
+  - [Maix Dock](maix/board/dock.md)
+  - [Maix Go](maix/board/go.md)
+  - [Maixduino](maix/board/maixduino.md)
+- [软件开发套件（SDK）](maix/sdk/README.md)
+  - [MaixPy](maix/sdk/maixpy.md)
+  - [Maixduino](maix/sdk/maixduino.md)
+  - [Kendryte SDK](maix/sdk/kendryte_sdk.md)
+  - [RT-Thread](maix/sdk/rtt.md)
 
 ## 荔枝系列
 

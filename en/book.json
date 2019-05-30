@@ -7,34 +7,6 @@
     },
     "variables": {
         "items": [
-            {
-                "name": "Sipeed",
-                "link": "https://www.sipeed.com"
-            },
-            {
-                "name": "Blog",
-                "link": "http://blog.sipeed.com"
-            },
-            {
-                "name": "BBS",
-                "link": "https://bbs.sipeed.com/"
-            },
-            {
-                "name": "Taobao",
-                "link": "https://shop365481095.taobao.com/"
-            },            
-            {
-                "name": "MaixPy",
-                "link": "https://maixpy.sipeed.com/"
-            },
-            {
-                "name": "Maixduino",
-                "link": "https://maixduino.sipeed.com/"
-            },
-            {
-                "name": "github",
-                "link": "https://github.com/sipeed"
-            }
         ]
     }
 }

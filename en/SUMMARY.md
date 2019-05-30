@@ -3,25 +3,19 @@ Summary
 
 - [Sipeed Products](README.md)
 
-## K210 Series
+## AI Maix Series
 
-- [About K210](k210/README.md)
-- [What can K210 do?](k210/demo_video.md)
-
-- [Module](k210/module/README.md)
-  - [Maix M1](k210/module/m1.md)
-
-- [Dev Boards](k210/board/README.md)
-  - [Maix Bit](k210/board/bit.md)
-  - [Maix Dock](k210/board/dock.md)
-  - [Maix Go](k210/board/go.md)
-  - [Maixduino](k210/board/maixduino.md)
-
-- [SDK](k210/sdk/README.md)
-  - [MaixPy](k210/sdk/maixpy.md)
-  - [Maixduino](k210/sdk/maixduino.md)
-  - [Kendryte SDK](k210/sdk/kendryte_sdk.md)
-  - [RT-Thread](k210/sdk/rtt.md)
+- [Maix M1](maix/module/m1.md)
+- [Dev Boards](maix/board/README.md)
+  - [Maix Bit](maix/board/bit.md)
+  - [Maix Dock](maix/board/dock.md)
+  - [Maix Go](maix/board/go.md)
+  - [Maixduino](maix/board/maixduino.md)
+- [SDK](maix/sdk/README.md)
+  - [MaixPy](maix/sdk/maixpy.md)
+  - [Maixduino](maix/sdk/maixduino.md)
+  - [Kendryte SDK](maix/sdk/kendryte_sdk.md)
+  - [RT-Thread](maix/sdk/rtt.md)
 
 ## Lichee Series
 

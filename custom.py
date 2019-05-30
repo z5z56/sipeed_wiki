@@ -19,11 +19,11 @@ def change_page_inner_width(file, width):
 f_en_path = None
 f_zh_path = None
 if os.path.exists("_book"):
-    f_en_path = os.getcwd()+"/_book/en/k210/board/index.html"
-    f_zh_path = os.getcwd()+"/_book/zh/k210/board/index.html"
+    f_en_path = os.getcwd()+"/_book/en/maix/board/index.html"
+    f_zh_path = os.getcwd()+"/_book/zh/maix/board/index.html"
 elif os.path.exists("build"):
-    f_en_path = os.getcwd()+"/build/en/k210/board/index.html"
-    f_zh_path = os.getcwd()+"/build/zh/k210/board/index.html"
+    f_en_path = os.getcwd()+"/build/en/maix/board/index.html"
+    f_zh_path = os.getcwd()+"/build/zh/maix/board/index.html"
 
 
 change_page_inner_width(f_en_path, 1240)
