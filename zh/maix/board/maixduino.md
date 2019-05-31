@@ -7,7 +7,6 @@
 
 ![](https://cdn.sipeed.com/wiki/maix/maixduino/maixduino_pins_1920_914.png)
 
-[引脚图 PNG 下载](https://cdn.sipeed.com/wiki/maix/maixduino/maixduino_pins.png)
 
 
 * Maix M1 模组
@@ -27,6 +26,8 @@
 
 ## 资料
 
+* [引脚图 PNG 下载](https://cdn.sipeed.com/wiki/maix/maixduino/maixduino_pins.png)
+* 规格书（包含引脚连接表格）：[Specifications](http://dl.sipeed.com/MAIX/HDK/Maixduino/Specifications/)
 * 硬件资料： [dl.sipeed.com](http://dl.sipeed.com/MAIX/HDK/Maixduino/)
 * [SDK](../sdk/README.md)： 适用于 k210 系列所有 SDK
 

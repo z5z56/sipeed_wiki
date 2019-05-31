@@ -7,7 +7,7 @@ Development board Maixduino
 
 ![](https://cdn.sipeed.com/wiki/maix/maixduino/maixduino_pins_1920_914.png)
 
-[Pin map PNG picture Download](https://cdn.sipeed.com/wiki/maix/maixduino/maixduino_pins.png)
+
 
 * Maix M1 module
 * ESP32-WROOM-32 WiFi module (2.4G WiFi + Bluetooth)
@@ -26,6 +26,8 @@ Development board Maixduino
 
 ## Docs & Downloads
 
+* [Pin map PNG picture Download](https://cdn.sipeed.com/wiki/maix/maixduino/maixduino_pins.png)
+* Specifications(include Pin map form):[Specifications](http://dl.sipeed.com/MAIX/HDK/Maixduino/Specifications/)
 * Hardware Information: [dl.sipeed.com](http://dl.sipeed.com/MAIX/HDK/Maixduino/)
 * [SDK](../sdk/README.md): Applies to all SDKs of the k210 series
 
