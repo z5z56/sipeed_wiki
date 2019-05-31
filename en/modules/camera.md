@@ -11,6 +11,12 @@ Camera module
 
 ![](../../assets/binocular.png)
 
+Mic and lens are not included in the purchase, subject to the purchase page
+
+![](../../assets/binocular_1.jpg)
+
+
 ### Docs & Downloads
 
 [Module Information](http://dl.sipeed.com/MAIX/HDK/Sipeed-DualCamera/)
+
