@@ -22,6 +22,18 @@ Development board Maixduino
 * 1 LCD touch screen (optional)
 * 1 1.25mm audio output female
 
+## Assembly
+
+Pay attention to the installation direction of the camera and screen, otherwise it may not work or damage the device.
+
+The camera is facing the back:
+
+![](../../../assets/maixduino_00.png)
+
+
+Screen facing the front
+
+![](../../../assets/maixduino_01.png)
 
 
 ## Docs & Downloads
