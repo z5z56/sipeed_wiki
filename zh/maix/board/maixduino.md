@@ -8,7 +8,7 @@
 ![](https://cdn.sipeed.com/wiki/maix/maixduino/maixduino_pins_1920_914.png)
 
 
-
+* Arduino UNO R3 外形和引脚兼容
 * Maix M1 模组
 * ESP32-WROOM-32 WiFi 模组（2.4G WiFi+蓝牙）
 * 4 个指示灯（esp32 和 k210 串口发送接收指示灯）

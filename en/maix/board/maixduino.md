@@ -8,7 +8,7 @@ Development board Maixduino
 ![](https://cdn.sipeed.com/wiki/maix/maixduino/maixduino_pins_1920_914.png)
 
 
-
+* Arduino UNO R3 Pins compatible
 * Maix M1 module
 * ESP32-WROOM-32 WiFi module (2.4G WiFi + Bluetooth)
 * 4 indicators (esp32 and k210 serial port send and receive indicators)
