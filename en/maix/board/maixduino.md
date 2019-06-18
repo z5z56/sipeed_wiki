@@ -29,7 +29,7 @@ Although the shape and `Pin` are compatible with `Arduino UNO R3`, the voltage l
 `Maixduino` supports `3.3V` and `1.8V` levels, and the pins are divided into several `BANK`, each `BANK` can be set to a voltage of `1.8V` or `3.3V` by software,
 However, these **pins are not `5V' tolerated**.
 
-Therefore, when using the peripheral device of `Arduino`, be careful not to short the `5V` to the pin or even the value of `RST` (`1.8V`), otherwise the board may be damaged!
+Therefore, when using the peripheral device of `Arduino`, be careful not to short the `5V` to the pin or `RST` (`1.8V`) pin, otherwise the board may be damaged!
 
 > For example, this [Base Shield V2 expansion board](http://wiki.seeedstudio.com/Base_Shield_V2/):
 >
