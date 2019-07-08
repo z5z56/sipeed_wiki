@@ -16,6 +16,11 @@ Summary
   - [Maixduino](maix/sdk/maixduino.md)
   - [Kendryte SDK](maix/sdk/kendryte_sdk.md)
   - [RT-Thread](maix/sdk/rtt.md)
+- [Tools](maix/tools/kflash_gui.md)
+  - [Firmware/Model Download tool](maix/tools/kflash_gui.md)
+  - [Maixpy IDE](maix/tools/maixpy_ide.md)
+  - [PlatformIO IDE](maix/tools/platformio.md)
+
 
 ## Lichee Pi Series
 
