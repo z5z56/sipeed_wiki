@@ -7,3 +7,5 @@ Maixpy is a scripting language that is completely usable without the need for an
 
 The Maixpy IDE is derived from the OpenMV IDE. Because the K210 does not support USB, it uses serial communication instead, so using Maixpy IDE will reduce the frame rate, or if you encounter other problems, please try to use the serial terminal instead.
 
+
+Download: [dl.sipeed.com](http://dl.sipeed.com/MAIX/MaixPy/ide/)
