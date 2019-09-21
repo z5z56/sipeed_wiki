@@ -3,9 +3,9 @@
 
 ## 单麦（MSM261S4030H0）模块
 
-![](../../assets/mic.png)
+![](https://cdn.sipeed.com/wiki/maix/board/mic.png)
 
-![](../../assets/mic_1.png)
+![](https://cdn.sipeed.com/wiki/maix/board/mic_1.png)
 
 ### 资料
 
@@ -15,7 +15,7 @@
 
 7(6+1)个 SM261S4030H0 麦克风， 12 个 RGB 灯
 
-![](../../assets/mic_array.png)
+![](https://cdn.sipeed.com/wiki/maix/board/mic_array.png)
 
 ### 资料
 

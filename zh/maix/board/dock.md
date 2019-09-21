@@ -2,8 +2,8 @@
 ===========
 
 
-![dan dock](../../../assets/dan_dock_1.png)
-![Dan dock](../../../assets/Dan_Dock.png)
+![dan dock](https://cdn.sipeed.com/wiki/maix/board/dan_dock_1.png)
+![Dan dock](https://cdn.sipeed.com/wiki/maix/board/Dan_Dock.png)
 
 * Maix M1/M1W 模组
 * 1 个 RGB 灯（1红+1绿+1蓝）

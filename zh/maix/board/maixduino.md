@@ -1,9 +1,9 @@
 开发板 Maixduino
 ===========
 
-![](../../../assets/maixduino_0.png)
-![](../../../assets/maixduino_1.png)
-![](../../../assets/maixduino_3.jpg)
+![](https://cdn.sipeed.com/wiki/maix/board/maixduino_0.png)
+![](https://cdn.sipeed.com/wiki/maix/board/maixduino_1.png)
+![](https://cdn.sipeed.com/wiki/maix/board/maixduino_3.jpg)
 
 ![](https://cdn.sipeed.com/wiki/maix/maixduino/maixduino_pins_1920_914.png)
 
@@ -33,8 +33,8 @@
 
 > 比如这款[Base Shield V2扩展板](http://wiki.seeedstudio.com/Base_Shield_V2/)：
 > 
-> ![](../../../assets/seeed_base_shield_v2_2.png)
-> ![](../../../assets/seeed_base_shield_v2.png)
+> ![](https://cdn.sipeed.com/wiki/maix/board/seeed_base_shield_v2_2.png)
+> ![](https://cdn.sipeed.com/wiki/maix/board/seeed_base_shield_v2.png)
 > 
 > 如上图的设计可以看到，由于扩展板设计了兼容 `5V` 和 `3.3V` 设计， 所以**一定不要**将开关拨到 `5V` 处， 否则板子将会被损坏！
 > 
@@ -50,11 +50,11 @@
 
 摄像头朝背面：
 
-![](../../../assets/maixduino_00.png)
+![](https://cdn.sipeed.com/wiki/maix/board/maixduino_00.png)
 
 屏幕朝正面
 
-![](../../../assets/maixduino_01.png)
+![](https://cdn.sipeed.com/wiki/maix/board/maixduino_01.png)
 
 ## 资料
 

@@ -1,7 +1,7 @@
 开发板 Maix Go
 ===========
 
-![](../../../_book/assets/Go.jpg)
+![](https://cdn.sipeed.com/wiki/maix/board/Go.jpg)
 
 * Maix M1W 模组
 * 1 个 RGB 灯（1红+1绿+1蓝）

@@ -1,7 +1,7 @@
 开发板 Maix Bit
 ===========
 
-![BiT](../../../assets/BiT.png)
+![BiT](https://cdn.sipeed.com/wiki/maix/board/BiT.png)
 
 * 16MB Flash
 * Micro SD 卡槽
