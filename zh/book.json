@@ -4,7 +4,7 @@
     "language" : "zh-hans",
     "structure": {
         "summary": "SUMMARY.md",
-        "readme": "README.md"
+        "readme": "Introduction.md"
     },
     "variables": {
         "items": [

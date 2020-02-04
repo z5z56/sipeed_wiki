@@ -1,47 +1,62 @@
 {% extends template.self %}
 {% block book_header %}
-<div class="sipeed-navbar navbar-collapse" id="navbar" role="navigation">
-    <ul class="nav navbar-nav">
-        <li><a href="https://www.sipeed.com" target="_blank" class="btn"><img src="/assets/icon_sipeed2.png" height="30" /><i class="header_logo_font"></i></a></li>
-        <li><a href="#" class="btn autohide" onclick="toggleLanguage()">English</a></li>           
-{% for item in book.items %}
-    {% if item.links %}
-    <li>
-        <a href="#" class="btn autohide"><i ></i>{{item.name}}</a>
-        <ul class="hovershow">
-            {% for entry in item.links %}
-            <li><a href="{{entry.link}}" class="btn" target="_blank">{{entry.name}}</a></li>
-            {% endfor %}
-        </ul>
-    </li>                
-    {% else %}
-    <li><a href="{{item.link}}" class="btn autohide" target="_blank"><i ></i>{{item.name}}</a></li>
-    {% endif %}
-{% endfor %}    
-{% for item in book.version %}
-    {% if item.links %}
-    <li class="version-link">
-        <a class="btn" >版本 <span style="font-weight:bold">{{item.name}}</span></a>
-        <ul class="hovershow">
-            {% for entry in item.links %}
-            <li><a href="{{entry.link}}" class="btn">版本: <span style="font-weight:bold">{{entry.name}}</span></a></li>
-            {% endfor %}
-        </ul>
-    </li>                
-    {% else %}
-    <li><a href="{{item.link}}" class="btn">{{item.name}}</a></li>
-    {% endif %}
-{% endfor %}   
-    </ul>
+<div class="book-my-header" role="navigation">
+    <div role="navigation" aria-label="breadcrumbs navigation">
+        <div class="my-head-left">
+            <div class="btn-togger" data-flag='open' onclick="btnTogger()">
+                <i></i>
+                <i></i>
+                <i></i>
+            </div>
+        </div>
+        <div class="my-head-right">
+            <ul>
+                <li><i><img src="/assets/img/edit_github.svg" alt=""></i><span onclick="location.href='https://github.com/sipeed/sipeed_wiki'">Edit on GitHub</span></li>
+                <li>
+                    <i><img src="/assets/img/i18n.svg" alt=""></i>
+                    <span onclick="toggleLanguage()">English</span>
+                    <span onclick="toggleLanguage()">中文</span>
+                </li>
+            </ul>
+        </div>
+    </div>
 </div>
-<div class="book-header" role="navigation">
-    {% if glossary.path %}
-    <a href="{{ ('/' + glossary.path)|resolveFile }}" class="btn pull-left" aria-label="{{ "GLOSSARY_OPEN"|t }}"><i class="fa fa-sort-alpha-asc"></i></a>
-    {% endif %}
-    <!-- Title -->
-    <h1>
-        <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href="{{ "/"|resolveFile }}" >{{ page.title }}</a>
-    </h1>
-</div>
+<script type="text/javascript">
+function btnTogger(){
+    let body_summary = document.getElementsByClassName('book-summary')[0]
+    var flag = document.getElementsByClassName('book-summary')[0].getAttribute('data-flag')
+    if(flag == 'open' || flag == null){
+        body_summary.style.width="300px"
+        body_summary.style.left="-300px"
+        body_summary.style.position="absolute"
+        document.getElementsByClassName('book-summary')[0].setAttribute('data-flag','close');
+        document.querySelector('.book-body').style.left = '0px'
+        localStorage.setItem(':sidebar','false')
+    } else {
+        localStorage.setItem(':sidebar','true')
+        body_summary.style.width="300px"
+        body_summary.style.left="0"
+        body_summary.style.position="absolute"
+        document.getElementsByClassName('book-summary')[0].setAttribute('data-flag','open');
+        if(window.innerWidth <= 360) {
+            document.querySelector('.book-body').style.left = '200px'
+        } else {
+            document.querySelector('.book-body').style.left = '300px'
+        }
+
+    }
+}
+
+function toggleLanguage() {
+    var path = location.href;
+    // console.log(path);
+    if (path.indexOf('/zh') !== -1) {
+        path = path.replace(/\/zh[\/$\s]/i, '/en/');
+    } else if (path.indexOf('/en') !== -1) {
+        path = path.replace(/\/en[\/$\s]/i, '/zh/');
+    }
+    // console.log('after: ' + path);    
+    location.assign(path);
+}
+</script>
 {% endblock %}

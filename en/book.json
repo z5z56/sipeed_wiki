@@ -3,7 +3,7 @@
     "description": "Sipeed Wiki pages",
     "structure": {
         "summary": "SUMMARY.md",
-        "readme": "README.md"
+        "readme": "Introduction.md"
     },
     "variables": {
         "items": [

@@ -76,4 +76,3 @@ Wiki 中提到的物品均可以在官方淘宝店购买到，如果没有请询
 
 * [sipeed](https://github.com/sipeed)
 * [lichee](https://github.com/Lichee-Pi)
-* [lichee](https://github.com/Lichee-Pi)
